@@ -7,6 +7,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+ # QR Code Types
+ 
+Laravel QR Code Generator supports the following QR Codes:
+
+Email Message.
+
+Phone.
+
+Text.
+
+URL.
+
+Wi-fi Network Settings.
+
+# Configuration
+
+Run composer require simplesoftwareio/simple-qrcode "~4" to add the package.
+
+Laravel will automatically pick up and install the package.
 
 
 
